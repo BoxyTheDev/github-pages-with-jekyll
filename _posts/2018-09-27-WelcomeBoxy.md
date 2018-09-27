@@ -1,4 +1,3 @@
-
 ---
 title: "THE FIRST POST BY BOXY THE HUMAN"
 date: 2018-09-27
